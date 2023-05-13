@@ -1,6 +1,6 @@
 ---
 page_type: sample
-description: This sample app demonstrate how to use Task Module using Bot Framework v4
+description: This sample app demonstrate how to use Adaptive card based Tab app. And to implement task module.
 products:
 - office-teams
 - office
@@ -17,7 +17,7 @@ urlFragment: officedev-microsoft-teams-samples-bot-task-module-csharp
 
 Bot Framework Teams Task Module sample.
 
-This bot has been created using [Bot Framework](https://dev.botframework.com). It shows how to fetch a Task Module from Hero Card or Adaptive Card buttons and receive input from the Task Module in the bot.
+This bot has been created using [Bot Framework](https://dev.botframework.com). Itshows  how to use Adaptive card based Tab app. And to implement task module..
 
 - **Interaction with bot**
 ![bot-task-module ](Images/Bot_Tab_TaskModule.gif)
