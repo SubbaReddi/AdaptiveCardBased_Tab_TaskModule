@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TeamsTaskModule
+build_property.RootNamespace = TeamsTaskModule
+build_property.ProjectDir = D:\V5\Microsoft-Teams-Samples-main\Microsoft-Teams-Samples-main\samples\bot-task-module\csharp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\V5\Microsoft-Teams-Samples-main\Microsoft-Teams-Samples-main\samples\bot-task-module\csharp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZmlndXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/CustomForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/HelloWorld.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGVsbG9Xb3JsZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/PowerApp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG93ZXJBcHAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/Shared/_EmbedPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9FbWJlZFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/Tasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFza3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/YouTube.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWW91VHViZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/V5/Microsoft-Teams-Samples-main/Microsoft-Teams-Samples-main/samples/bot-task-module/csharp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

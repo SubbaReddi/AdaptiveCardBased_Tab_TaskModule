@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="tabadaptivecardsubba" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\V5\\Microsoft-Teams-Samples-main\\Microsoft-Teams-Samples-main\\samples\\bot-task-module\\csharp\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

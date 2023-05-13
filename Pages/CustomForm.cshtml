@@ -1,0 +1,38 @@
+﻿@page
+@model Microsoft.BotBuilderSamples.Pages.CustomFormModel
+@{
+    ViewData["Title"] = "CustomForm";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding-left: 4px;
+            padding-right: 4px;
+        }
+    </style>
+    <title>Microsoft Teams Task Module Tester - Custom Form</title>
+</head>
+<body>
+    <script>
+        microsoftTeams.app.initialize();
+        function validateForm() {
+            microsoftTeams.tasks.submitTask("", "");
+            return true;
+        }
+    </script>
+    <div class="surface theme-light">
+        <div class="panel">
+            <div class="font-semibold font-title">Enter new customer information:</div>
+                <div>
+                    <br/>
+                <button class="btn button-primary" type="submit" onclick="validateForm()">Close</button>
+                </div>
+         
+        </div>
+    </div>
+</body>
+</html>
